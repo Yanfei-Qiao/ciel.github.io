@@ -1,8 +1,10 @@
 title: Yanfei-qiao.GitHub.io
-description: 
+description: A simple static website
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-slate
 
-gems:
+plugins:
   - jekyll-mentions
+
+github: e0b7f4f6d289a25c374c66c1f3b6c1f20ffc8b28
